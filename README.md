@@ -25,4 +25,3 @@ My focus is on improving the student experience, testing features with real user
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/waliu-yusuf-8446523b0/)
-  
